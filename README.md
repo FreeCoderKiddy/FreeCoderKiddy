@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FreeCoderKiddy
-- 👀 I’m interested in nature, sports, arts ans travels
+- 👀 I’m interested in nature, sports, arts and travels
 - 🌱 I’m currently learning - How to use Git and build applications. + Docker
 - 💞️ I’m looking to collaborate on (I Wiil see: To new )
 - 📫 How to reach me ...
